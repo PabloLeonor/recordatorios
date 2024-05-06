@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Recordatory APP</string>
+    <string name="textoSplash">Recordatory App</string>
+    <string name="textoBienvenidoInicio">Welcome</string>
+    <string name="textoUsuarioInicio">User</string>
+    <string name="textoContrasennaInicio">Password</string>
+    <string name="textoContrasennaOlvidadaInicio">I\'ve forgot my password</string>
+    <string name="textoIniciarSesionIinico">Login</string>
+    <string name="textoNuevaCuentaInicio">Create a new account</string>
+
+
+    <string name="textoCrearCuentaRegistrarse">Create Account</string>
+    <string name="textoNombreRegistrarse">Name:</string>
+    <string name="textoNombreCampoRegistrarse">Introduce Username</string>
+    <string name="textoEmailRegistrase">E-mail:</string>
+    <string name="textoEmailCampoRegistrase">Introduce E-mail</string>
+    <string name="textoContrasennaRegistrarse">Password:</string>
+    <string name="textoContrasennaCampoRegistrarse">Introduce password</string>
+    <string name="textoContrasennaCampoDosRegistrarse">Confirm password</string>
+    <string name="textoBotonRistrarse">Create new account</string>
+    <string name="textoEmailNoValido">Non valid Email</string>
+    <string name="textoContrasennaNoValida">Non valid password</string>
+    <string name="textoUsuaioNoValido">Void user name</string>
+    <string name="textoUsuarioCreado">Account created succesfully</string>
+    <string name="textoCorreoYaExiste">Email already registered</string>
+
+    <string name="textoRecordatoriosPrincipal">Weekly reminder</string>
+    <string name="textoBotonAjustesPrincipal">Settings</string>
+    <string name="textoBotonAvisosPrincipal">Advises</string>
+    <string name="textoBotonCompartirPrincipal">Share</string>
+    <string name="textoBotonTareasPrincipal">Tareesion</string>
+
+
+    <string name="textoAvisosHoyAvisos">Today\'s advises</string>
+    <string name="textoBotonVolverAvisos">Back</string>
+
+
+
+    <string name="textoAjustesAjustes">Settings</string>
+    <string name="textoBotonVolverAjustes">Back</string>
+    <string name="textoBotonEliminarAjustes">Erase all recordatories</string>
+    <string name="textoBotonCerrrarSesionAjustes">Logout</string>
+</resources>
